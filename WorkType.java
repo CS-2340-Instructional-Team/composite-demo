@@ -1,0 +1,5 @@
+public enum WorkType {
+    SOFTWARE_DEVELOPMENT,
+    PROJECT_MANAGEMENT,
+    MANAGEMENT;
+}
